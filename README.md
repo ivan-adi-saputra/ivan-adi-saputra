@@ -1,4 +1,6 @@
-## ![Ivan Adi Saputra's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivan-adi-saputra&show_icons=true)
+<!--
+![Ivan Adi Saputra's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivan-adi-saputra&show_icons=true)
+-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivan-adi-saputra&layout=compact)
 
 👋 Hello! I'm Ivan Adi Saputra, but you can just call me Ivan.
