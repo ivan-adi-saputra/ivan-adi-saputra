@@ -8,7 +8,7 @@
 As a Fullstack Developer who is always eager to learn and develop, I have a deep desire to face new challenges in software development. I am constantly honing my skills in front-end and back-end to deliver innovative and cutting-edge solutions. With an undying passion for technology exploration and implementation of best practices, I am committed to creating web applications that are not only efficient and responsive but also ready to face the latest technological challenges.
 
 💼 Career
-- **Currently working in Software Engineering Division at PT. Vastu Cipta Persada.
+- Currently working in Software Engineering Division at PT. Vastu Cipta Persada.
 
 💻 Experiences
 - GIT (VCS)
