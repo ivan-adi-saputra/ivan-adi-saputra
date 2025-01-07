@@ -11,7 +11,7 @@ As a Fullstack Developer who is always eager to learn and develop, I have a deep
 - Currently working in Software Engineering Division at PT. Vastu Cipta Persada.
 
 💻 Experiences
-- GoLang
+- Golang
 - ReactJS
 - NextJS
 - ExpressJS
