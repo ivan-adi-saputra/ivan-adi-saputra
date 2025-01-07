@@ -11,14 +11,15 @@ As a Fullstack Developer who is always eager to learn and develop, I have a deep
 - Currently working in Software Engineering Division at PT. Vastu Cipta Persada.
 
 💻 Experiences
-- GIT (VCS)
-- React JS (Redux)
+- GoLang
+- ReactJS
 - NextJS
-- Express JS
-- Node JS
+- ExpressJS
+- NodeJS
 - PHP
 - Laravel
-- MySQL, MongoDB
+- MySQL, MongoDB, PostgreSQL
+- GIT (VCS)
 
 🔍 Currently Learning
 - **Creating Intuitive Frontends:** Designing visually appealing and user-friendly interfaces.
