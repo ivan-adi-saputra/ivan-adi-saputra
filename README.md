@@ -34,7 +34,7 @@ As a Fullstack Developer who is always eager to learn and develop, I have a deep
 
 🚀 How to reach me:
 - Email: [ivanadisaputra34@gmail.com](mailto:ivanadisaputra34@gmail.com)
-- LinkedIn: [ivan-adi-saputra](https://www.linkedin.com/in/ivan-adi-saputra)
+- LinkedIn: [ivan-adi-saputra](https://www.linkedin.com/in/ivan-adi-saputra-1410232b7)
 - Instagram: [@ivansaputra_18](https://www.instagram.com/ivansaputra_18)
 
 ____________________________________________________________________________________________________________________________________________________________________
